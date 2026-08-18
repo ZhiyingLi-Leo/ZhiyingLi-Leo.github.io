@@ -8,19 +8,19 @@ const publications = [
   {
     venue: "Cyborg and Bionic Systems, 2026",
     title: "Electroencephalography Enables Continuous Decoding of Hand Motion Angles in Polar Coordinates",
-    authors: "Xiaohan Lu*, Yifeng Chen*, Zhiying Li, Jinqiu Zhao, Yijie Zhou, Dongrui Wu, Mingming Zhang",
+    authors: "Xiaohan Lu*, Yi-feng Chen*, Zhiying Li, Jinqiu Zhao, Yijie Zhou, Dongrui Wu, Mingming Zhang",
     url: "https://doi.org/10.34133/cbsystems.0469",
   },
   {
     venue: "IEEE Transactions on Fuzzy Systems, 2025",
     title: "WavTSK: An Interpretable Fuzzy Network With Learnable Wavelet-Based Feature Extraction for Motor Imagery EEG Decoding",
-    authors: "Zhiying Li*, Yifeng Chen*, Jianhua Yu, Mingming Zhang",
+    authors: "Zhiying Li*, Yi-feng Chen*, Jingwan Yu, Mingming Zhang",
     url: "https://doi.org/10.1109/TFUZZ.2025.3623122",
   },
   {
     venue: "M2VIP, 2024",
     title: "Enhancing Movement Directions Decoding in EEG-BCI through Force Feedback",
-    authors: "Zhiying Li, Jinqiu Zhao, Jingwan Yu, Chenyang Sun, Xiaohan Lu, Xuehan Li, Mingming Zhang, Yifeng Chen",
+    authors: "Zhiying Li, Jinqiu Zhao, Jingwan Yu, Chenyang Sun, Xiaohan Lu, Xuehan Li, Mingming Zhang, Yi-feng Chen",
     url: "https://doi.org/10.1109/M2VIP62491.2024.10746111",
   },
 ];
